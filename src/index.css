@@ -1,0 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&family=Rubik+Gemstones&family=Rubik+Scribble&family=Tac+One&family=Workbench&display=swap');
+
+html , body{
+
+  background-color: rgb(42, 41, 41);
+  font-family: "Rubik Scribble", system-ui;
+}
